@@ -27,11 +27,11 @@
   I am a Web Developer with a strong passion for building beautiful and functional web applications. I enjoy turning complex problems into simple, and intuitive solutions. I'm always eager to learn new technologies and improve my skills.
 </p>
 
-- 🔭 I’m currently working on **[Nama Proyek yang Sedang Anda Kerjakan]**
-- 🌱 I’m currently learning **[Teknologi Baru, misal: Docker, TypeScript]**
+- 🔭 I’m currently working on **I'm currently building a suite of integrated web applications with Laravel and Vue.js, featuring an HRM system, a business process improvement tool (SIERIC), and a corporate e-learning platform.**
+- 🌱 I’m currently learning **I'm learning TypeScript to write more robust and maintainable JavaScript code for my future projects.**
 - 💬 Ask me about **PHP, Laravel, Vue.js, and anything related to web development!**
 - 📫 How to reach me: **rizkyfajaranugrah2@gmail.com**
-- ⚡ Fun fact: **[Tulis fakta menarik tentang diri Anda, misal: I love spicy food]**
+- ⚡ Fun fact: **My coding process is 90% powered by mochaccino coffee and Lo-fi hip hop beats.**
 
 ---
 
@@ -83,7 +83,7 @@ Here are some of the technologies I've been working with:
 
 <p align="center">
   <a href="https://github.com/rizkyfajranugrah">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizkyfajranugrah&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyfajranugrah&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizkyfajr&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyfajr&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   </a>
 </p>
