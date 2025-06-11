@@ -8,13 +8,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/[ganti-dengan-username-linkedin-anda]" target="_blank">
+  <a href="https://www.linkedin.com/in/rizky-fajar-anugrah-aa826718a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rizkyfajaranugrah2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://[ganti-dengan-url-portfolio-anda].com" target="_blank">
+  <a href="https://rizkyfajr.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
