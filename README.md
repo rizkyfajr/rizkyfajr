@@ -56,7 +56,7 @@ Here are some of the technologies I've been working with:
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx46h7ehDtz9gd7NkmQ3RvqdoGtGXHwBuCWA&s" alt="laravel" width="40" height="40"/> </a> 
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1721772?s=200&v=4" alt="laravel" width="40" height="40"/> </a> 
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 </p>
 
